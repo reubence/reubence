@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-<!-- - 🔭 I’m currently working at [Jio Creative Labs](https://github.com/reubence/auto-ml)-->
+- 🔭 I’m currently working at [Jio Creative Labs](https://www.jiocreativelabs.com/)
 
 - 🌱 I’m currently learning **TensorFlow 2.0**
 
