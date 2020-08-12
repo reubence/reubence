@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-- 🔭 I’m currently working at [Jio Creative Labs](https://www.jiocreativelabs.com/)
+- 🔭 Present working at [Jio Creative Labs](https://www.jiocreativelabs.com/)
 
-- 🌱 I’m currently learning **TensorFlow 2.0**
+- 🌱 I’m currently learning **how to make machine learning work in the real world**
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
