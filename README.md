@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **python, machine-learning, statistics, dash-plotly, numpy, pandas**
 
-- 📫 How to reach me **reuben3699@gmail.com**
+- 📫 You can reach me at **reuben3699@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
