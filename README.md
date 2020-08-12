@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reuben</h1>
 <h3 align="center">I got into Data Science because I was told that Big Data holds all the answers.</h3>
-<h3 align="center">(but now I'm stuck searching for questions :sad:)</h3>
+<h5 align="center">(but now I'm stuck searching for questions :sweat_smile:)</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
