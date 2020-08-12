@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
-- 📝 I regulary write articles on [https://medium.com/@reuben3699](https://medium.com/@reuben3699)
+- 📝 I sometimes write articles on [https://medium.com/@reuben3699](https://medium.com/@reuben3699)
 
 - 💬 Ask me about **python, machine-learning, statistics, dash-plotly, numpy, pandas**
 
