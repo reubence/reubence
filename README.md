@@ -25,7 +25,8 @@
 <br/>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reubence&show_icons=true" alt="reubence" /></p>
-
+<br/>
+<br/>
 <p align="center">
 <a href="https://linkedin.com/in/reubence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reubence" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/reuben-rapose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="reuben-rapose" height="30" width="30" /></a>
