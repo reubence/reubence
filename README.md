@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@reuben3699](https://medium.com/@reuben3699)
 
-- 💬 Ask me about **python, dash-plotly, numpy, pandas**
+- 💬 Ask me about **python, machine-learning, statistics, dash-plotly, numpy, pandas**
 
 - 📫 How to reach me **reuben3699@gmail.com**
 
