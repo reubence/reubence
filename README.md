@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Reuben</h1>
-<h3 align="center">I'm a budding data scientist who was told that Big Data holds all the answers.</h3>
+<h3 align="center">I got into Data Science because I was told that Big Data holds all the answers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
