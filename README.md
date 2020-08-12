@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at **reuben3699@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
