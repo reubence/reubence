@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-- 🔭 I’m currently working on [Automating Data Science Tasks](https://github.com/reubence/auto-ml)
+<!-- - 🔭 I’m currently working on [Automating Data Science Tasks](https://github.com/reubence/auto-ml)-->
 
 - 🌱 I’m currently learning **TensorFlow 2.0**
 
