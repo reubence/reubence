@@ -28,7 +28,7 @@
 <br/>
 <p align="center">
 <a href="https://linkedin.com/in/reubence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reubence" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/13764834/reuben-rapose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="reuben-rapose" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13764834/reuben-rapose?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="reuben-rapose" height="30" width="30" /></a>
 <a href="https://kaggle.com/reubence" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="reubence" height="30" width="30" /></a>
 <a href="https://instagram.com/reubenrapose" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="reubenrapose" height="30" width="30" /></a>
 <a href="https://medium.com/@reuben3699" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@reuben3699" height="30" width="30" /></a>
