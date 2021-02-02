@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently looking out for an Internship / Job.
 
-- 🌱 I’m currently learning **how to make machine learning work in the real world**
+- 🌱 I spend my time learning **how to make machine learning work in the real world**
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
