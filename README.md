@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-- 🔭 I'm currently looking out for an Internship / Job.
+- 🔭 I'm currently hustling!
 
 - 🌱 I spend my time learning **how to make machine learning work in the real world**
 
