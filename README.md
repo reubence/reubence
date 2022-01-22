@@ -12,7 +12,7 @@
 
 - 📝 I sometimes write articles on [https://medium.com/@reubence](https://medium.com/@reubence)
 
-- 💬 Ask me about **python, machine-learning, statistics, dash-plotly, numpy, pandas**
+- 💬 Ask me about **machine-learning, statistics, dash-plotly, numpy, pandas, react, linux, blockchain**
 
 - 📫 You can reach me at **reuben.rapose@gmail.com**
 
