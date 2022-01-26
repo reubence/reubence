@@ -12,7 +12,7 @@
 
 - 🔴 Unfortunately many of my flagship projects are part of private mono-repos, so not much to showcase on my public repository on GitHub :(
 
-- 📝 I also enjoy writing articles for [https://medium.com/@reubence](Medium Publications) in my free time
+- 📝 I also enjoy writing articles for [Medium Publications](https://medium.com/@reubence) in my free time
 
 - 💬 Ask me about **react, machine-learning, statistics, dash-plotly, numpy, pandas, react, linux, blockchain, javascript**
 
