@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-- 🔭 I'm currently hustling!
+- 🔭 I'm currently building apps on React!
 
-- 🌱 I spend my time learning **how to make machine learning work in the real world**
+- 🌱 I am eternally seeking the truth — sometimes by learning, sometimes by sharing, sometimes by having ambitious goals to chase
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
-- 📝 I sometimes write articles on [https://medium.com/@reubence](https://medium.com/@reubence)
+- 📝 I enjoy writing articles on [https://medium.com/@reubence](https://medium.com/@reubence) in my free time
 
-- 💬 Ask me about **machine-learning, statistics, dash-plotly, numpy, pandas, react, linux, blockchain**
+- 💬 Ask me about **react, machine-learning, statistics, dash-plotly, numpy, pandas, react, linux, blockchain, javascript**
 
 - 📫 You can reach me at **reuben.rapose@gmail.com**
 
