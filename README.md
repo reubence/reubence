@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
-- 🔭 I'm currently building apps on React!
+- 🔭 Currently building apps on React!
 
-- 🌱 I am eternally seeking the truth — sometimes by learning, sometimes by sharing, sometimes by having ambitious goals to chase
+- 🌱 Eternally seeking the truth — sometimes by learning, sometimes by sharing, sometimes by having ambitious goals to chase
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
