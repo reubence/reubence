@@ -6,13 +6,13 @@
 
 - 🔭 Currently building apps on React!
 
-- 🔴 Unfortunately many of my flagship projects are part of private mono-repos, so not much to showcase on my public repository on GitHub :(
-
 - 🌱 Eternally seeking the truth — sometimes by learning, sometimes by sharing, sometimes by having ambitious goals to chase
 
 - 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
 
-- 📝 I enjoy writing articles on [https://medium.com/@reubence](https://medium.com/@reubence) in my free time
+- 🔴 Unfortunately many of my flagship projects are part of private mono-repos, so not much to showcase on my public repository on GitHub :(
+
+- 📝 I also enjoy writing articles for [https://medium.com/@reubence](https://medium.com/@reubence) in my free time
 
 - 💬 Ask me about **react, machine-learning, statistics, dash-plotly, numpy, pandas, react, linux, blockchain, javascript**
 
