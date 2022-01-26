@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Reuben</h1>
 <h3 align="center">I got into Data Science because I was told that Big Data holds all the answers.</h3>
-<h5 align="center">( the answers led me down a path of discovery and I ended up being an tech entrepreneur )</h5>
+<h5 align="center">( the answers led me down a path of discovery and I ended up being a tech lead at various companies )</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reubence" alt="reubence" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🌱 Eternally seeking the truth — sometimes by learning, sometimes by sharing, sometimes by having ambitious goals to chase
 
-- 👨‍💻 All of my projects are available at [https://github.com/reubence?tab=repositories](https://github.com/reubence?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/reubence?tab=repositories)
 
 - 🔴 Unfortunately many of my flagship projects are part of private mono-repos, so not much to showcase on my public repository on GitHub :(
 
