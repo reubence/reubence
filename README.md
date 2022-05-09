@@ -6,20 +6,20 @@ Hi 👋 My name is Reuben Rapose
 Jack of all trades, Master of One
 ---------------------------------
 
-I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in web development.
+I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in creating thoughtful experiences for brands.
 
-In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. From here on out, it's just Onwards and Upwards 🚀 
+In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. From here on, it's just Onwards and Upwards 🚀 
 
-I bring to the table combined experience in Software Engineering & Project Management. 
+<!-- I bring to the table combined experience in Software Engineering & Project Management. 
 
 My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
-
+ -->
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [reubence.com](http://reubence.com)
+* 🖥️  See my portfolio at [reubence.com (Still Working On It!)](https://reubence.com)
 * ✉️  You can contact me at [reuben.rapose@gmail.com](mailto:reuben.rapose@gmail.com)
-* 🚀  I'm currently working on [Nothing... Hire Me!](http://www.upwork.com/freelancers/~010c25d81a281f7cd4)
+* 🚀  I'm currently working on [Nothing... Hire Me!](https://linkedin.com/reubence)
 * 🧠  I'm learning remotion.js
-* 🤝  I'm open to collaborating on open-source projects, startups and anything that can challenge my mind!
+* 🤝  I'd love to collaborate on open-source projects, startups or anything that involves building/creating something!
 * ⚡  Fun Fact : In a past life, I was a Data Scientist who made decisions for people who did not care about my decisions.
 
 ### Skills
