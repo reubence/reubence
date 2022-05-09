@@ -6,7 +6,13 @@ Hi 👋 My name is Reuben Rapose
 Jack of all trades, Master of One
 ---------------------------------
 
-I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in front-end development, but I am well equipped to handle Full-Stack projects as well. In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. From here on out, it's just Onwards and Upwards 🚀 I bring to the table combined experience in Software Engineering & Project Management. My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
+I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in front-end development, but I am well equipped to handle Full-Stack projects as well. 
+
+In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. From here on out, it's just Onwards and Upwards 🚀 
+
+I bring to the table combined experience in Software Engineering & Project Management. 
+
+My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
 
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [reubence.com](http://reubence.com)
