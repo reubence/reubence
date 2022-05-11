@@ -8,7 +8,9 @@ Jack of all trades, Master of One
 
 I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in creating thoughtful experiences for brands.
 
-In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. From here on, it's just Onwards and Upwards 🚀 
+In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. 
+
+From here on, it's just Onwards and Upwards 🚀 
 
 <!-- I bring to the table combined experience in Software Engineering & Project Management. 
 
