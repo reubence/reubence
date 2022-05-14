@@ -17,7 +17,7 @@ From here on, it's just Onwards and Upwards 🚀
 My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
  -->
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [reubence.com (Still Working On It!)](https://reubence.com)
+* 🖥️  See my portfolio at [reubence.com](https://reubence.com) (Still Working On It!)
 * ✉️  You can contact me at [reuben.rapose@gmail.com](mailto:reuben.rapose@gmail.com)
 * 🚀  I'm currently working on [Nothing... Hire Me!](https://linkedin.com/reubence)
 * 🧠  I'm learning remotion.js
