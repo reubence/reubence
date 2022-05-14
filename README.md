@@ -19,8 +19,8 @@ My strengths are in understanding the complexities of Product, Business, Technol
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [reubence.com](https://reubence.com) (Still Working On It!)
 * ✉️  You can contact me at [reuben.rapose@gmail.com](mailto:reuben.rapose@gmail.com)
-* 🚀  I'm currently working on [Nothing... Hire Me!](https://linkedin.com/reubence)
-* 🧠  I'm learning remotion.js
+* 🚀  I'm currently working on [Nothing... Hire Me!](https://www.linkedin.com/in/reubence/)
+* 🧠  I'm learning to automate videos using remotion.js
 * 🤝  I'd love to collaborate on open-source projects, startups or anything that involves building/creating something!
 * ⚡  Fun Fact : In a past life, I was a Data Scientist who made decisions for people who did not care about my decisions.
 
