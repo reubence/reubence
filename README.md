@@ -6,23 +6,23 @@ Hi 👋 My name is Reuben Rapose
 Jack of all trades, Master of One
 ---------------------------------
 
-I am a Creative Coder, Blogger and self-proclaimed Designer who specialises in creating thoughtful experiences for brands.
+I am a Data Scientist by training and Full-Stack Developer by profession who specialises in creating thoughtful experiences for brands. (Also a self-proclaimed Designer)
 
-In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to communities and startups alike, and so far, thankfully nothing has fallen apart. 
+In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to open-source communities and startups alike, and so far, thankfully nothing has fallen apart. 
 
-From here on, it's just Onwards and Upwards 🚀 
+From here on out, it's just Onwards and Upwards 🚀 
 
 <!-- I bring to the table combined experience in Software Engineering & Project Management. 
 
 My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
  -->
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [reubence.com](https://reubence.com) (Still Working On It!)
+* 🖥️  See my portfolio at [reubence.com](https://reubence.com)
 * ✉️  You can contact me at [reuben.rapose@gmail.com](mailto:reuben.rapose@gmail.com)
 * 🚀  I'm currently working on [Nothing... Hire Me!](https://www.linkedin.com/in/reubence/)
 * 🧠  I'm learning to automate videos using remotion.js
-* 🤝  I'd love to collaborate on open-source projects, startups or anything that involves building/creating something!
-* ⚡  Fun Fact : In a past life, I was a Data Scientist who made decisions for people who did not care about my decisions.
+* 🤝  Open to collaborating on open-source projects, startups or anything that involves building/creating something!
+* ⚡  Fun Fact : In a past life, I was a Data Scientist.
 
 ### Skills
 
