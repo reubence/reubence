@@ -8,7 +8,7 @@ Jack of all trades, Master of One
 
 I am a Data Scientist by training and Full-Stack Developer by passion who specialises in creating thoughtful experiences for brands. (Also a self-proclaimed Designer)
 
-In my swiss army knife of FullStack skills, React is my sharpest blade. With over 2 years of experience in React, I've contributed to open-source communities and startups alike, and so far, thankfully nothing has fallen apart. 
+In my swiss army knife of FullStack skills, React is my sharpest blade. With 3+ years of experience in React, I've contributed to open-source communities and startups alike, and so far, thankfully nothing has fallen apart. 
 
 From here on out, it's just Onwards and Upwards 🚀 
 
