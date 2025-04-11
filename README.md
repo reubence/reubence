@@ -17,7 +17,7 @@ From here on out, it's just Onwards and Upwards 🚀
 My strengths are in understanding the complexities of Product, Business, Technology and People, helping you seamlessly scale up by implementing cutting-edge systems & frameworks that are carefully chosen to fit your use case and needs.
  -->
 * 🌍  I'm based in Mumbai, India
-* 🖥️  See my portfolio at [reubence.com](https://reubence.com)
+* 🖥️  See my portfolio at [reubence.com](https://reubence.com) - not updated since 2024
 * ✉️  You can DM me on [twitter](https://twitter.com/reubence_)
 * 🚀  I'm currently working as a Full-Stack Engineer with Wanderlust
 * 🧠  I'm learning to automate videos using remotion.js
