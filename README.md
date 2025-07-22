@@ -19,8 +19,8 @@ My strengths are in understanding the complexities of Product, Business, Technol
 * 🌍  I'm based in Mumbai, India
 * 🖥️  See my portfolio at [reubence.com](https://reubence.com) - not updated since 2024
 * ✉️  You can DM me on [twitter](https://twitter.com/reubence_)
-* 🚀  I'm currently working as a Full-Stack Engineer with Wanderlust
-* 🧠  I'm learning to automate videos using remotion.js
+* 🚀  I'm currently working as a Tech Lead with Wanderlust
+* 🧠  I'm learning Rust and exploring Solana / Web3 through an elite builder's fellowship!
 * 🤝  Open to collaborating on open-source projects, startups or anything that involves building/creating something!
 * ⚡  Fun Fact : In a past life, I was a Data Scientist.
 
