@@ -14,7 +14,7 @@ I think like a founder and build like an engineer — ideas → specs → shippe
 - **Infra**: Scaling workloads across **AWS, GCP, and Azure** (CI/CD, networking, IAM, orchestration, observability).  
 - **Web2**: **TypeScript/React** with a focus on clean, scalable interfaces. 
 - 🧭 **Leadership:** Tech Lead @ **Wanderlust (Tokyo)** — led distributed teams; delivered AI/ML-backed systems for enterprise at scale.
-- 🎓 **Teaching:** Visiting Faculty @ **NMIMS (Mumbai)** — *Introduction to Modern App Development* for 3rd-year DS students
+- 🎓 **Teaching:** Visiting Faculty @ **NMIMS (Mumbai)** — Teaching a Semester course on *"Introduction to Modern App Development"* to 3rd-year engg undergrads.
 
 > Portfolio (lightly outdated): **https://reubence.com**  
 > Based in **Mumbai, India** • DM on **X**: [@reubence_](https://twitter.com/reubence_)
