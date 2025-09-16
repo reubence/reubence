@@ -23,7 +23,7 @@ I’m a founder at heart and a product-first engineer. I live for zero-to-one: t
 
 ## Talks & Features
 - 🎙️ **100xDevs podcast** (with Harkirat): https://youtu.be/AcZvdcvx1Ro?si=0gJslT4DZw4WlxxE  
-- 🧪 **Developer Students Club by Google** @ **Atharva College of Engineering** — hands-on Data Science workshop (EDA, viz, ML training, metrics, Pandas)
+- 🧪 **Developer Students Club by Google** @ **Atharva College of Engineering** — Talk/Workshop teaching hands-on Data Science skills (EDA, viz, ML training, metrics, Pandas)
 
 ---
 
