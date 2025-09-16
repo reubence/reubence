@@ -27,11 +27,6 @@ I’m a founder at heart and a product-first engineer. I live for zero-to-one: t
 
 ---
 
-## Philosophy
-**Stop comparing. Play your hand.** Every stage comes with unique advantages — I build by doubling down on mine and shipping relentlessly.
-
----
-
 ## Skills
 <p align="left">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="54" height="54" alt="Rust" /></a>
