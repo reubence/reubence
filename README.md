@@ -7,6 +7,7 @@ Builder at heart. Engineer by trade.
 -----------------------------------
 
 I design and ship systems at the intersection of **backend infra, Rust, and Web3**.  
+
 Currently: deep-diving into **Solana development** while stacking proof-of-work across fellowships, hackathons, and production-grade projects.
 
 What I’ve worked on:
@@ -15,7 +16,7 @@ What I’ve worked on:
 - **Web2**: **TypeScript/React** applications, SaaS tooling, and scalable full-stack experiences.  
 - **Leadership**: Tech Lead at Wanderlust (Tokyo) — led distributed teams, delivered AI/ML-backed systems for enterprise clients, and handled infra at scale.  
 - **Academia**: Visiting Faculty at NMIMS University (Mumbai), teaching *Introduction to Modern App Development* to 3rd Year Data Science students.  
-- **Community**: Featured on [Harkirat Singh’s podcast](https://youtu.be/AcZvdcvx1Ro?si=0gJslT4DZw4WlxxE) discussing my journey and insights.  
+- **Community**: Featured on [100xDev podcast](https://youtu.be/AcZvdcvx1Ro?si=0gJslT4DZw4WlxxE) discussing my journey and insights.
 
 What I’m doing now:
 - 🦀 Writing a lot of **Rust** (indexers, pipelines, Solana dev).  
