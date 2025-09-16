@@ -5,7 +5,7 @@
 # Hi 👋 I’m Reuben Rapose
 
 ### Product thinker. Systems builder. Relentless shipper.
-I think like a founder and build like an engineer — ideas → specs → shipped systems on short feedback loops.
+I’m a founder at heart and a product-first engineer. I live for zero-to-one: turning messy ideas into systems users actually touch. Startups are my natural habitat—fast loops, high ownership, shipped results.
 
 ---
 
